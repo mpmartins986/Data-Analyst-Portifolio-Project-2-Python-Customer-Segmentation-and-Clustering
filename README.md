@@ -11,7 +11,7 @@ An end-to-end unsupervised machine learning project designed to identify distinc
 
 ## 📊 Cluster Analysis & Segments
 
-![Bivariate Clustering](images/Clusters_bivariate.png)
+![Bivariate Clustering](Clusters_bivariate.png)
 
 ---
 
